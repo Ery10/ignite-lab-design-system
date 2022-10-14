@@ -11,7 +11,7 @@ export default {
             return (
             <div className='flex itens-center gap-2'>
                 {Story()}
-                <text size="sm">Lembrar-me de mim por 30 dias</text>
+                <text>Lembrar-me de mim por 30 dias</text>
             </div>
             )
         }
